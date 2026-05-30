@@ -1,0 +1,10 @@
+{
+  "short_name": "Pockit S",
+  "name": "Pockit Sergiu",
+  "icons": [],
+  "start_url": "index.html",
+  "background_color": "#f5f6fa",
+  "theme_color": "#ffde17",
+  "display": "standalone",
+  "orientation": "portrait"
+}
